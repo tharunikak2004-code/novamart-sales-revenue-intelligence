@@ -157,8 +157,9 @@ The project focuses on five primary KPIs:
 
 ---
 
-## Power BI Dashboard
-
+## Power BI Dashboard ( KPI visuals , Business insights )
+<img width="725" height="380" alt="image" src="https://github.com/user-attachments/assets/fdfb377e-5f8e-49fa-a1bc-f9f9e08a92e1" />
+<img width="731" height="407" alt="image" src="https://github.com/user-attachments/assets/15260ce5-7d62-4d69-b7e9-56977ac6b7f6" />
 The Executive Dashboard provides:
 
 - Revenue performance
