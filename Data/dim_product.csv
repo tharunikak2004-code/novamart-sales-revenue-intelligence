@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Cost,List_Price
+P0001,Laptops Product 001,Electronics,Laptops,42658.0,55827.28
+P0002,Cleaning Product 002,Home Appliances,Cleaning,47279.45,67130.59
+P0003,Personal Care Product 003,Lifestyle,Personal Care,5542.08,8532.13
+P0004,Wearables Product 004,Accessories,Wearables,41958.23,61175.42
+P0005,Laptops Product 005,Electronics,Laptops,7395.0,9714.56
+P0006,Cleaning Product 006,Home Appliances,Cleaning,20645.57,31350.48
+P0007,Personal Care Product 007,Lifestyle,Personal Care,35555.04,52400.57
+P0008,Wearables Product 008,Accessories,Wearables,24610.42,29968.42
+P0009,Laptops Product 009,Electronics,Laptops,30680.33,35203.88
+P0010,Cleaning Product 010,Home Appliances,Cleaning,45588.66,63441.89
+P0011,Personal Care Product 011,Lifestyle,Personal Care,41791.59,53177.55
+P0012,Wearables Product 012,Accessories,Wearables,53400.11,80316.01
+P0013,Laptops Product 013,Electronics,Laptops,42899.74,51638.19
+P0014,Cleaning Product 014,Home Appliances,Cleaning,25882.97,29476.45
+P0015,Personal Care Product 015,Lifestyle,Personal Care,8824.21,12474.88
+P0016,Wearables Product 016,Accessories,Wearables,41064.01,63075.52
+P0017,Laptops Product 017,Electronics,Laptops,18190.06,23270.5
+P0018,Cleaning Product 018,Home Appliances,Cleaning,26037.75,31283.65
+P0019,Personal Care Product 019,Lifestyle,Personal Care,7493.71,9925.82
+P0020,Wearables Product 020,Accessories,Wearables,12789.25,18007.52
+P0021,Laptops Product 021,Electronics,Laptops,24268.49,35870.08
+P0022,Cleaning Product 022,Home Appliances,Cleaning,38634.47,48459.9
+P0023,Personal Care Product 023,Lifestyle,Personal Care,45841.39,67205.71
+P0024,Wearables Product 024,Accessories,Wearables,21556.32,26815.65
+P0025,Laptops Product 025,Electronics,Laptops,37664.25,44447.34
+P0026,Cleaning Product 026,Home Appliances,Cleaning,11314.99,12708.61
+P0027,Personal Care Product 027,Lifestyle,Personal Care,43366.07,60967.74
+P0028,Wearables Product 028,Accessories,Wearables,38902.03,56630.21
+P0029,Laptops Product 029,Electronics,Laptops,25456.8,34737.3
+P0030,Cleaning Product 030,Home Appliances,Cleaning,8032.92,9392.48
+P0031,Personal Care Product 031,Lifestyle,Personal Care,36894.8,48796.01
+P0032,Wearables Product 032,Accessories,Wearables,31261.89,45296.9
+P0033,Laptops Product 033,Electronics,Laptops,35055.62,47606.9
+P0034,Cleaning Product 034,Home Appliances,Cleaning,30932.71,38687.5
+P0035,Personal Care Product 035,Lifestyle,Personal Care,2082.65,2723.67
+P0036,Wearables Product 036,Accessories,Wearables,12116.32,15698.72
+P0037,Laptops Product 037,Electronics,Laptops,46995.81,57362.8
+P0038,Cleaning Product 038,Home Appliances,Cleaning,3583.33,4446.89
+P0039,Personal Care Product 039,Lifestyle,Personal Care,16430.22,23078.28
+P0040,Wearables Product 040,Accessories,Wearables,30813.96,44898.29
+P0041,Laptops Product 041,Electronics,Laptops,36671.52,47480.32
+P0042,Cleaning Product 042,Home Appliances,Cleaning,44845.51,53446.81
+P0043,Personal Care Product 043,Lifestyle,Personal Care,1640.08,1900.39
+P0044,Wearables Product 044,Accessories,Wearables,39840.82,52534.39
+P0045,Laptops Product 045,Electronics,Laptops,9205.44,12293.4
+P0046,Cleaning Product 046,Home Appliances,Cleaning,8716.24,12371.99
+P0047,Personal Care Product 047,Lifestyle,Personal Care,24760.13,31788.02
+P0048,Wearables Product 048,Accessories,Wearables,16862.56,23456.18
+P0049,Laptops Product 049,Electronics,Laptops,20154.97,23333.2
+P0050,Cleaning Product 050,Home Appliances,Cleaning,6843.12,10494.72
+P0051,Personal Care Product 051,Lifestyle,Personal Care,50008.51,71055.8
+P0052,Wearables Product 052,Accessories,Wearables,14916.5,22922.87
+P0053,Laptops Product 053,Electronics,Laptops,42919.8,61300.75
+P0054,Cleaning Product 054,Home Appliances,Cleaning,24935.14,30846.36
+P0055,Personal Care Product 055,Lifestyle,Personal Care,5662.95,8540.4
+P0056,Wearables Product 056,Accessories,Wearables,25285.39,30519.88
+P0057,Laptops Product 057,Electronics,Laptops,17105.23,23418.16
+P0058,Cleaning Product 058,Home Appliances,Cleaning,10051.79,14960.52
+P0059,Personal Care Product 059,Lifestyle,Personal Care,41815.17,59769.31
+P0060,Wearables Product 060,Accessories,Wearables,23992.28,33343.1
+P0061,Laptops Product 061,Electronics,Laptops,32291.75,45190.17
+P0062,Cleaning Product 062,Home Appliances,Cleaning,5010.66,6507.83
+P0063,Personal Care Product 063,Lifestyle,Personal Care,2672.13,3560.39
+P0064,Wearables Product 064,Accessories,Wearables,18410.42,21763.79
+P0065,Laptops Product 065,Electronics,Laptops,6045.8,8298.99
+P0066,Cleaning Product 066,Home Appliances,Cleaning,9714.38,14744.5
+P0067,Personal Care Product 067,Lifestyle,Personal Care,32125.94,40772.77
+P0068,Wearables Product 068,Accessories,Wearables,32663.99,36903.96
+P0069,Laptops Product 069,Electronics,Laptops,52737.33,70003.03
+P0070,Cleaning Product 070,Home Appliances,Cleaning,43137.34,49848.38
+P0071,Personal Care Product 071,Lifestyle,Personal Care,26971.54,35899.23
+P0072,Wearables Product 072,Accessories,Wearables,51605.32,70484.77
+P0073,Laptops Product 073,Electronics,Laptops,26252.52,32416.6
+P0074,Cleaning Product 074,Home Appliances,Cleaning,18503.67,24866.88
+P0075,Personal Care Product 075,Lifestyle,Personal Care,24364.57,27514.74
+P0076,Wearables Product 076,Accessories,Wearables,45515.54,68516.78
+P0077,Laptops Product 077,Electronics,Laptops,8057.6,10944.12
+P0078,Cleaning Product 078,Home Appliances,Cleaning,6328.24,8916.89
+P0079,Personal Care Product 079,Lifestyle,Personal Care,15755.36,22113.46
+P0080,Wearables Product 080,Accessories,Wearables,40093.91,58156.96
+P0081,Laptops Product 081,Electronics,Laptops,6282.66,9511.23
+P0082,Cleaning Product 082,Home Appliances,Cleaning,12969.68,14734.69
+P0083,Personal Care Product 083,Lifestyle,Personal Care,30694.94,39274.07
+P0084,Wearables Product 084,Accessories,Wearables,45706.52,67076.52
+P0085,Laptops Product 085,Electronics,Laptops,17715.78,27100.66
+P0086,Cleaning Product 086,Home Appliances,Cleaning,16284.11,21844.72
+P0087,Personal Care Product 087,Lifestyle,Personal Care,14375.69,21886.97
+P0088,Wearables Product 088,Accessories,Wearables,9387.59,10695.39
+P0089,Laptops Product 089,Electronics,Laptops,24156.3,37363.07
+P0090,Cleaning Product 090,Home Appliances,Cleaning,49085.58,70776.57
+P0091,Personal Care Product 091,Lifestyle,Personal Care,49037.27,73760.98
+P0092,Wearables Product 092,Accessories,Wearables,28729.67,36080.14
+P0093,Laptops Product 093,Electronics,Laptops,42551.88,59764.73
+P0094,Cleaning Product 094,Home Appliances,Cleaning,20801.71,24142.89
+P0095,Personal Care Product 095,Lifestyle,Personal Care,41174.71,50762.57
+P0096,Wearables Product 096,Accessories,Wearables,51550.0,63077.47
+P0097,Laptops Product 097,Electronics,Laptops,7102.58,10493.2
+P0098,Cleaning Product 098,Home Appliances,Cleaning,8769.32,10497.62
+P0099,Personal Care Product 099,Lifestyle,Personal Care,33126.3,49558.99
+P0100,Wearables Product 100,Accessories,Wearables,11125.33,13944.92
+P0101,Laptops Product 101,Electronics,Laptops,42846.3,65892.7
+P0102,Cleaning Product 102,Home Appliances,Cleaning,27740.47,32785.79
+P0103,Personal Care Product 103,Lifestyle,Personal Care,1160.92,1414.87
+P0104,Wearables Product 104,Accessories,Wearables,7597.49,10723.05
+P0105,Laptops Product 105,Electronics,Laptops,7052.05,9433.68
+P0106,Cleaning Product 106,Home Appliances,Cleaning,38306.73,52475.63
+P0107,Personal Care Product 107,Lifestyle,Personal Care,11307.75,16574.6
+P0108,Wearables Product 108,Accessories,Wearables,39461.23,56735.9
+P0109,Laptops Product 109,Electronics,Laptops,7555.75,8864.51
+P0110,Cleaning Product 110,Home Appliances,Cleaning,51044.92,65896.88
+P0111,Personal Care Product 111,Lifestyle,Personal Care,16831.8,22387.83
+P0112,Wearables Product 112,Accessories,Wearables,36592.39,56019.95
+P0113,Laptops Product 113,Electronics,Laptops,16039.96,24343.33
+P0114,Cleaning Product 114,Home Appliances,Cleaning,1757.33,2387.75
+P0115,Personal Care Product 115,Lifestyle,Personal Care,35015.04,40811.29
+P0116,Wearables Product 116,Accessories,Wearables,8062.54,10483.07
+P0117,Laptops Product 117,Electronics,Laptops,53156.26,73158.87
+P0118,Cleaning Product 118,Home Appliances,Cleaning,51343.07,75262.53
+P0119,Personal Care Product 119,Lifestyle,Personal Care,25919.04,37775.66
+P0120,Wearables Product 120,Accessories,Wearables,1373.89,1603.24
+P0121,Laptops Product 121,Electronics,Laptops,45686.8,66822.95
+P0122,Cleaning Product 122,Home Appliances,Cleaning,13102.18,17664.76
+P0123,Personal Care Product 123,Lifestyle,Personal Care,33488.46,50002.55
+P0124,Wearables Product 124,Accessories,Wearables,33329.65,43242.08
+P0125,Laptops Product 125,Electronics,Laptops,20830.45,27144.77
+P0126,Cleaning Product 126,Home Appliances,Cleaning,35995.43,53741.93
+P0127,Personal Care Product 127,Lifestyle,Personal Care,25182.77,30888.46
+P0128,Wearables Product 128,Accessories,Wearables,13321.77,19193.82
+P0129,Laptops Product 129,Electronics,Laptops,44984.65,52419.24
+P0130,Cleaning Product 130,Home Appliances,Cleaning,4034.11,5549.35
+P0131,Personal Care Product 131,Lifestyle,Personal Care,8381.06,12358.76
+P0132,Wearables Product 132,Accessories,Wearables,17344.27,20498.58
+P0133,Laptops Product 133,Electronics,Laptops,50684.99,60374.88
+P0134,Cleaning Product 134,Home Appliances,Cleaning,15945.72,18912.48
+P0135,Personal Care Product 135,Lifestyle,Personal Care,6705.76,7571.43
+P0136,Wearables Product 136,Accessories,Wearables,3424.59,4092.71
+P0137,Laptops Product 137,Electronics,Laptops,3314.65,4554.96
+P0138,Cleaning Product 138,Home Appliances,Cleaning,37567.01,48433.68
+P0139,Personal Care Product 139,Lifestyle,Personal Care,17762.31,23747.25
+P0140,Wearables Product 140,Accessories,Wearables,48175.27,71587.81
+P0141,Laptops Product 141,Electronics,Laptops,2773.74,3323.06
+P0142,Cleaning Product 142,Home Appliances,Cleaning,13326.27,16354.49
+P0143,Personal Care Product 143,Lifestyle,Personal Care,31589.3,41034.27
+P0144,Wearables Product 144,Accessories,Wearables,3089.27,3956.29
+P0145,Laptops Product 145,Electronics,Laptops,28996.91,33744.25
+P0146,Cleaning Product 146,Home Appliances,Cleaning,45906.84,52441.38
+P0147,Personal Care Product 147,Lifestyle,Personal Care,50896.37,59173.07
+P0148,Wearables Product 148,Accessories,Wearables,46459.19,70067.0
+P0149,Laptops Product 149,Electronics,Laptops,53884.56,78933.94
+P0150,Cleaning Product 150,Home Appliances,Cleaning,42959.47,59982.93
